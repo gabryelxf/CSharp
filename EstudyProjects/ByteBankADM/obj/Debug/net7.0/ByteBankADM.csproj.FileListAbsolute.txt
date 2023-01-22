@@ -1,0 +1,15 @@
+C:\Users\b\source\repos\ByteBankADM\bin\Debug\net7.0\ByteBankADM.exe
+C:\Users\b\source\repos\ByteBankADM\bin\Debug\net7.0\ByteBankADM.deps.json
+C:\Users\b\source\repos\ByteBankADM\bin\Debug\net7.0\ByteBankADM.runtimeconfig.json
+C:\Users\b\source\repos\ByteBankADM\bin\Debug\net7.0\ByteBankADM.dll
+C:\Users\b\source\repos\ByteBankADM\bin\Debug\net7.0\ByteBankADM.pdb
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.csproj.AssemblyReference.cache
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.AssemblyInfoInputs.cache
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.AssemblyInfo.cs
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.csproj.CoreCompileInputs.cache
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.dll
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\refint\ByteBankADM.dll
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.pdb
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ByteBankADM.genruntimeconfig.cache
+C:\Users\b\source\repos\ByteBankADM\obj\Debug\net7.0\ref\ByteBankADM.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7mB+fQsKbL5h8XHaSq17CbROrcQJVJrf2uX7wvFcN4d53350ntETFklx9qdavpK1B4yEoVwGjKz3ObEDUjqCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\b\\source\\repos\\bytebank\\bytebank\\bytebank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b\\.nuget\\packages\\dotliquid\\2.2.677\\dotliquid.2.2.677.nupkg.sha512"
+  ],
+  "logs": []
+}
